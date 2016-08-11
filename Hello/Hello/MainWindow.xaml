@@ -8,6 +8,6 @@
         Title="Hello" SizeToContent="WidthAndHeight" Background="Bisque">
 
     <!--Main window-->
-    <TextBlock Name="Block" Text="Hello!"/>
+    <TextBlock Name="Block" FontSize="50" Margin="10" Text="Hello!"/>
 
 </Window>
