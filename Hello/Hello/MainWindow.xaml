@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Hello"
         mc:Ignorable="d"
-        Title="Hello" Height="200" Width="200">
+        Title="Hello" SizeToContent="WidthAndHeight" Background="Bisque">
 
     <!--Main window-->
     <TextBlock Name="Block" Text="Hello!"/>
