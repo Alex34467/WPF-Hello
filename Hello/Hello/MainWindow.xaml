@@ -7,5 +7,7 @@
         mc:Ignorable="d"
         Title="Hello" Height="200" Width="200">
 
-    
+    <!--Main window-->
+    <TextBlock Name="Block" Text="Hello!"/>
+
 </Window>
